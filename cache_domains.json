@@ -6,6 +6,11 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
+			"Name": "Ubuntu",
+			"description": "Ubuntu update repo",
+			"domain_files": ["ubuntu.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
