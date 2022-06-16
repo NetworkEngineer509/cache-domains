@@ -1,2 +1,2 @@
-*.ubuntu.com
-ubuntu.com
+archive.ubuntu.com
+security.ubuntu.com
