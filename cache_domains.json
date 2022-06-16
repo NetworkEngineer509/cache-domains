@@ -1,11 +1,6 @@
 {
 	"cache_domains": [
 		{
-			"name": "steam",
-			"description": "CDN for steam platform",
-			"domain_files": ["steam.txt"]
-		},
-		{
 			"Name": "Ubuntu",
 			"description": "Ubuntu update repo",
 			"domain_files": ["ubuntu.txt"]
