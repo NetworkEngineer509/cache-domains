@@ -1,4 +1,10 @@
 *.windowsupdate.com
+wustat.windows.com
+ntservicepack.microsoft.com
+go.microsoft.com
+download.windowsupdate.com
+windowsupdate.microsoft.com
+*.windowsupdate.microsoft.com
 windowsupdate.com
 *.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
